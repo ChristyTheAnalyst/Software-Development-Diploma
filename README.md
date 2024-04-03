@@ -56,9 +56,15 @@ Lua
 **Languages with Both Compilation and Interpretation:**
 
 Java: Java code is compiled into bytecode by the Java compiler, which is then executed by the Java Virtual Machine (JVM) through interpretation. However, modern JVM implementations often use Just-In-Time (JIT) compilation to translate bytecode into native machine code for better performance.
+
 C#: Similar to Java, C# code is compiled into Common Intermediate Language (CIL) bytecode by the C# compiler, which is then executed by the Common Language Runtime (CLR). JIT compilation is also employed by the CLR.
+
 Kotlin: Kotlin code is compiled into bytecode for the JVM, similar to Java. It also supports compilation to JavaScript and native code via LLVM, in which case it relies on interpretation for execution.
+
 Scala: Scala code is compiled into bytecode for the JVM, but it also supports compilation to JavaScript. In both cases, execution involves interpretation by the respective runtime environments.
+
 R: R is typically an interpreted language, but certain implementations (such as Renjin and FastR) compile R code to bytecode for performance optimization.
+
 Julia: Julia code is typically compiled to intermediate representations (such as LLVM IR) for performance, but it also supports interactive interpretation through its REPL (Read-Eval-Print Loop).
+
 MATLAB/Octave: While both MATLAB and Octave primarily interpret code interactively, they can also JIT compile certain functions for performance.
