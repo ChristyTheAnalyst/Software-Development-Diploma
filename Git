@@ -1,0 +1,16 @@
+Git - UNIX based VCS
+Git provides the tools necessary for the developer to manage a local repository of files on their hard drive.
+
+GitHub is a file repository hosting service that provides tools to share project files with other registered members of the community. GitHub also provides automated solutions to assist with file versions being committed by several users occurring at the same time.
+
+The GitHub Desktop Application is a version control system that bridges the gap between the tools already built-in to the GitHub website and provides the user with a visual solution to easily manage their repository files on both their local hard drive and the remote GitHub server.
+
+Bash is short for “Bourne Again SHell.” Bash is a command-line user interface for Unix.
+
+A command language is a programming language made up mostly of commands that are mainly used for communicating with the operating system of a computer.
+
+Bash is a shell and a command language. Users can type commands that cause actions in the bash.
+
+Centralized and Distributed VCS
+
+The pseudo console (also called ConPTY ) is a text-based console that grants developers the ability to work with and communicate with command line applications. It is a sort of intermediary (in between) application that allows you to send and receive commands from the command line.
