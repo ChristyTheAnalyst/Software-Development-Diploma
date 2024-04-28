@@ -36,3 +36,16 @@ MinTTY is a terminal. It is a text-based console interface (like the windows com
 
 Winpty stands for Windows pseudo terminal. It is a Windows Software package that provides a way for Windows console programs to communicate with Unix interfaces, such as bash.
 
+"INI" is short for "initialization".
+INI files are used by the Windows operating system, typically to lay out operating instructions for the OS and some programs.
+
+The docx file format (.docx) is short for “document XML.” 
+As a reminder, XML is an extensible markup language. This means that developers can create their own document structure, and then use XML to specify markup instructions for the data in those documents. Tags are the markup language words that usually have two parts, a start tag and an end tag. They have these symbols before and after them: < and >. XML is similar to HTML except that the code itself can be customized (i.e. the developer can create their own tags).
+
+Touch is a command-line interface program for Unix that is used to update date information – such as: changing the date that a file or directory was modified or accessed. Touch can also be used to create or open a file.
+
+Tilde is the name for the symbol ~
+It is pronounced “tilda.”
+
+Parse means to break something up into its parts and analyze it.
+
