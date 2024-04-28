@@ -99,6 +99,33 @@ git merge myFirstBranch : always make sure that themerge is executed from master
 cat file1.txt : To see where the merge conflicts exist
 To avoid merge conflicts, always update the current branch with master branch changes
 
+A fork is a copy of a repository.
 
+git clone cloneUrl : copies the online Repository to local repository
+Deltas: shows/represents the difference between the cloed file and the original.
+Always make sure that the delta is 100%
+
+git diff: shows the changes that was made to the repository
+
+git push cloneUrl: to push the changes to remote Repository
+Once the updates are pushed these changes need to be pulled to GitHub
+
+A GitHub README is written in the .md format, which stands for markdown. 
+
+Elements of a Good README
+A good README consists of a few important elements, for example:
+    Titles - Names of important sections within the README
+    Introduction - The project's aim
+    Technologies - List of languages used
+    Launch - Version of languages used for reproducibility
+    And depending on the scope of the project, they will also contain:
+    
+    Table of contents - Contains links to the main sections of the README.
+    Illustrations - Pictures of code that help show what was created.
+    Scope of functionalities - What the program is capable of.
+    Examples of use - What it can be used for.
+    Project status - What stage of development the project is at.
+    Sources - List of sources for the project.
+    Other information - Author and contact information, social media links, and licenses.
 
 
