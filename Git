@@ -97,6 +97,8 @@ git switch - : to move back to latest commit
 git merge myFirstBranch : always make sure that themerge is executed from master/main branch
 
 cat file1.txt : To see where the merge conflicts exist
-To avoid conflicts, always update the current branch with master branch changes
+To avoid merge conflicts, always update the current branch with master branch changes
+
+
 
 
