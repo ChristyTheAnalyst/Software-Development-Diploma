@@ -14,3 +14,25 @@ Bash is a shell and a command language. Users can type commands that cause actio
 Centralized and Distributed VCS
 
 The pseudo console (also called ConPTY ) is a text-based console that grants developers the ability to work with and communicate with command line applications. It is a sort of intermediary (in between) application that allows you to send and receive commands from the command line.
+
+.sh - extension for file with shell commands
+
+Vim - Vi(Visual) Improved - text editor for Unix OS
+
+.crt is a file extension that indicates the file contains a digital certificate for validating the authenticity of a website in a web browser.
+
+Ca-bundle.crt is a certificate authority file that contains multiple certificates to verify security and ensure trust that your data will be secure and kept private on the internet. The CA bundle improves compatibility of certificates for web browsers to recognize so that no security warnings appear in your browser's address bar.
+
+LF stands for line feed.
+Control characters are not printable characters. They instead represent an action to be done by the computer for text files. For example, delete is a control character.
+LF is another example of a control character. The control character LF denotes a line break in a text file – the cursor moves down to the next line but does not move to the beginning of the line.
+
+CRLF stands for carriage return line feed and is another control character. The CRLF control character moves the cursor to the beginning of the line.
+
+MSYS2 stands for Minimal Systems 2.
+MSYS2 is a collection of open source software tools that would normally depend on Unix tools to operate. It provides the support needed to build Windows applications without the dependencies of Unix tools.
+
+MinTTY is a terminal. It is a text-based console interface (like the windows command line).
+
+Winpty stands for Windows pseudo terminal. It is a Windows Software package that provides a way for Windows console programs to communicate with Unix interfaces, such as bash.
+
