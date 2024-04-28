@@ -49,3 +49,54 @@ It is pronounced “tilda.”
 
 Parse means to break something up into its parts and analyze it.
 
+Hash is an operation that converts one value to another. It is usually used to mask data with different data.
+
+ls -a : List all files in CWD including hidden files
+
+git init myRepository : intialises a new git repository
+
+cd myRepository : moves to the specified folder
+
+git help
+
+echo 'This is my first text file' > file1.txt
+this will create a txt file. but for git to keep track of the changes in file, we need to add the file to git
+
+git add file1.txt
+
+git status: to check the chanes that need to be commited to git. if the changes are not commited. The changes that we made, will be lost.
+git commit -m "Added new txt file"
+-m : message to keep track of the changes made in each comment
+
+git log: gives the version or commit hash(160bit long string in hexadecimal)
+
+Staging is the step prior to the commit process in Git.
+A staged file means that you have marked the file to be included in your next commit.
+git add . : add all modifiled and new files to staging to be commited
+
+mkdir fileName: to create a new dir
+
+mv : can move files and also rename files
+mv file2.txt myCodeFiles
+mv file2.txt renamedFile2.txt
+
+git branch myFirstBranch : to create a new branch
+git branch : gives the listog branches and indicates the current branch with * sign
+
+git checkout myFirstBranch : move to another branch
+also check if you are in correct branch after moving using "git branch" command
+
+git commit -a -m "added a new file file2"
+
+git branch -d testBranch : to delete the branch
+
+git checkout 563d3d : "563d3d" is the first 6 characters of last commit hash
+
+git switch - : to move back to latest commit
+
+git merge myFirstBranch : always make sure that themerge is executed from master/main branch
+
+cat file1.txt : To see where the merge conflicts exist
+To avoid conflicts, always update the current branch with master branch changes
+
+
