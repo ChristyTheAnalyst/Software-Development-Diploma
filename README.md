@@ -5,6 +5,7 @@
 Execution Approach:
 
 Compiler: A compiler translates the entire source code of a program into machine code or intermediate code before execution. The resulting compiled code can be executed multiple times without further translation.
+
 Interpreter: An interpreter processes the source code of a program line by line, executing each line or instruction sequentially. The source code is translated into machine code or intermediate code and executed immediately.
 
 Output:
