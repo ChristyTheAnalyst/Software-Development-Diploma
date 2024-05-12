@@ -1,6 +1,6 @@
 # Software-Development-Diploma :-
 
-**Differences between a compiler and an interpreter**
+**Differences between a compiler and an interpreter:**
 
 Execution Approach:
 
