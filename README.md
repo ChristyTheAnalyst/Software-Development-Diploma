@@ -8,6 +8,7 @@ Compiler: A compiler translates the entire source code of a program into machine
 
 Interpreter: An interpreter processes the source code of a program line by line, executing each line or instruction sequentially. The source code is translated into machine code or intermediate code and executed immediately.
 
+
 Output:
 
 Compiler: The output of a compiler is typically a standalone executable file or a library. Once compiled, the source code is transformed into machine code or intermediate code, which can be executed independently of the original source code.
